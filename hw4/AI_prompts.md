@@ -201,4 +201,4 @@ The prompt bundled three tasks (audit trail, safety rules, finishing the harness
 
 ### What was lacking in my original prompt
 
-_To be filled in once Problem 13 is complete._
+My original prompt did not name the exact repo, so one follow-up was needed to confirm the repository name (chose ai-foundations-hw4) before publishing.
